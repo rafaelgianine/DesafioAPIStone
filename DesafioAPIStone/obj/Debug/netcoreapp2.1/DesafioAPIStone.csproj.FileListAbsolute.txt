@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\DesafioAPIStone.deps.json
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\DesafioAPIStone.runtimeconfig.json
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\DesafioAPIStone.runtimeconfig.dev.json
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\DesafioAPIStone.dll
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\DesafioAPIStone.pdb
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.AssemblyInfo.cs
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.dll
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.pdb
