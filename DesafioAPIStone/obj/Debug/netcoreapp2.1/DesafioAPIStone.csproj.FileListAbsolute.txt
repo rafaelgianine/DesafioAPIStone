@@ -12,3 +12,6 @@ C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2
 C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.RazorTargetAssemblyInfo.cache
 C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.dll
 C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.pdb
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.csproj.CopyComplete

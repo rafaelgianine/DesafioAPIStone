@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Repository;
 
 namespace DesafioAPIStone.Controllers
 {
-    [Route("api/Desafio")]
+    [Route("api/desafio")]
     [ApiController]
     public class DesafioController : ControllerBase
     {
@@ -14,6 +15,7 @@ namespace DesafioAPIStone.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            FirebaseConn.Conexao();
             return new string[] { "value1", "value2" };
         }
 
