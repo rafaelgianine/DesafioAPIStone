@@ -15,3 +15,5 @@ C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2
 C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\Repository.dll
 C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\Repository.pdb
 C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\obj\Debug\netcoreapp2.1\DesafioAPIStone.csproj.CopyComplete
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\User\source\repos\DesafioAPIStone\DesafioAPIStone\bin\Debug\netcoreapp2.1\Models.pdb
